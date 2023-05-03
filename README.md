@@ -2,6 +2,10 @@
 
 This plugin lets you use Vercel's Blob Storage to store files for Medusa.
 
+## WARNING: WORK IN PROGRESS
+
+This plugin is not ready for any application usage whether beta, alpha or production. This plugin does not work at the moment. Do not utilize this plugin until this warning message is taken off.
+
 [Learn more about Vercel Blob Storage](https://vercel.com/storage/blob)
 
 ## Features (All of the features are TODO)
